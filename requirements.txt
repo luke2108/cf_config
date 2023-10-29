@@ -1,0 +1,10 @@
+requests>=2.4.2
+pyyaml
+jsonlines
+beautifulsoup4
+pytest
+# python django
+django
+djangorestframework
+djangorestframework-simplejwt
+python-dotenv
